@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544821866 source:c:\users\lenovo\desktop\codeblox\graph\main.cpp
+	<winbgim.h>
+	<stdio.h>
+	<math.h>
+	<dos.h>
+	<windows.h>
+
